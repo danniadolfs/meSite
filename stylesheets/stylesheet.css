@@ -19,12 +19,6 @@ a {
   border-width: 1px;
 }
 
-.img{
-  width: 10%;
-  height: auto;
-  float:right;
-}    
-
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
